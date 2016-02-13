@@ -18,5 +18,5 @@ The classifier simply classifies a data point with height below the threshold as
 The threshold is incremented from 150 to 178 in increments of one unit. For each value of the threshold, the True Positive Rate
 and the True Negative Rate are calculated to get the points for the curve. 
 
-[!ROC Curve](genderClassifier.jpg)
+![ROC Curve](genderClassifier.jpg)
 This plot was created using Octave.
